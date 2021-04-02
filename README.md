@@ -1,7 +1,7 @@
 # web_scraping_part2
 
 <br>
-In this exercise we scraped multiple pages of the same [website](http://books.toscrape.com/catalogue/page-1.html) to retrieve the ratings of book. Using the similar code, books of different ratings can be scraped as well as combination of logical operators can be used to retrieve books that are above average ratings or below average ratings.
+In this exercise we scraped multiple pages of the same [website](http://books.toscrape.com/catalogue/page-1.html) to retrieve the ratings of book. Using the similar code, books of different ratings can be scraped as well as combination of logical operators can be used to retrieve books that are above average ratings or below average ratings. User input: the url of the website, pages required to be scraped, criteria for scraping (high rated books or lower rated books)- in this case rating of one, Script output: List of books that has a rating of one on page 1 to 5.
 
 <br>
 
