@@ -4,8 +4,10 @@
 In this exercise we scraped multiple pages of the same [website](http://books.toscrape.com/catalogue/page-1.html) to retrieve the ratings of book. Using the similar code, books of different ratings can be scraped as well as combination of logical operators can be used to retrieve books that are above average ratings or below average ratings.
 
 <br>
-##Libraries used
 
+## Libraries used
+<br>
+<br>
 ->requests: Requests allows you to send organic, grass-fed HTTP/1.1 requests, without the need for manual labor.
 
 ->lxml: lxml is a Python library which allows for easy handling of XML and HTML files, and can also be used for web scraping.
